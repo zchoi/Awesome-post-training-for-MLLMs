@@ -1,5 +1,7 @@
 # Awesome Post-Training for MLLMs
 
+![Post-training framework for MLLMs](assets/framework.png)
+
 A curated paper collection for **post-training Multimodal Large Language Models (MLLMs)**, organized to match a survey-style taxonomy: instruction tuning, data construction, preference alignment, reinforcement learning, hallucination mitigation, reasoning, video/omni-modal adaptation, agents/grounding, domain post-training, and evaluation.
 
 The collection focuses on papers that are directly useful for understanding how MLLMs are adapted after pre-training. Each entry tries to include:
